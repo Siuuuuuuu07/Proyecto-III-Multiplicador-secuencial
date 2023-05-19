@@ -1,9 +1,13 @@
 # Proyecto-III-Multiplicador-secuencial
 
 Instituto Tecnológico de Costa Rica
+
 EL 3307: Diseño Lógico
+
 Grupo 20
+
 Profesor: Ing. Kaleb Alfaro Badilla
+
 Integrantes:
 
     Montenegro Goméz Samuel
