@@ -16,6 +16,10 @@ Integrantes:
 
 I Semestre 2023
 
+
+## Descripción general
+
+
 El diseño de sistemas digitales requiere habilidad de implementación de algoritmos por medio de circuitos
 lógicos. Muchos algoritmos en la práctica usan iteraciones o búcles que a la hora de traducirlos a implemen-
 taciones de lógica booleana, surge la necesidad de un control lógico que habilite el correcto flujo de datos
